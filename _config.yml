@@ -8,4 +8,4 @@ sass:
 assets_path: '' 
 
 collections:
-  projects:
+  projects: yes
